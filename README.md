@@ -13,10 +13,10 @@ Newsletter aims to achieve following
 - Automated
 
 # Technology stack
-Data source - FHIR data RESTful endpoint
-Database - MongoDB
-Programming Language - Java
-NLP Clinical Ontology - MedlinePlus
+- Data source - FHIR data RESTful endpoint
+- Database - MongoDB
+- Programming Language - Java
+- NLP Clinical Ontology - MedlinePlus
 
 # Presentation
 Slideshare - https://www.slideshare.net/ChaitanyaBapat1/personalized-hospital-patient-newsletter
